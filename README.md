@@ -10,11 +10,15 @@
   ##
 </div>
 
-- Venezuelana
-- Moro no Brasil
+- Venezuelana.
+  
+- Moro no Brasil.
+  
 - 👩🌱 Engenheiro Agrônomo, minhã primeira formacão.
-- Desenvolvedor Mobile Android | Kotlin:
-  Desenvolvedor mobile Android Nativo com Kotlin, em formação. Atualmente, estou aprimorando minhas habilidades através de cursos especializados. Busco me manter atualizado com as últimas tendências do mercado. Tenho interesse em princípios de programação, arquitetura de software e tenho aptidão para aprender novas tecnologias rapidamente e me adaptar a diferentes ambientes de trabalho. Estou comprometida em evoluir na área de desenvolvimento mobile.
+  
+- Atualmente, estudo na TOTI (Negócio Social que inspira a mudança na vida de pessoas refugiados através da tecnologia. Ensino eletrônico.)
+  
+- Desenvolvedor mobile Android Nativo com Kotlin, em formação. Atualmente, estou aprimorando minhas habilidades através de cursos especializados. Busco me manter atualizado com as últimas tendências do mercado. Tenho interesse em princípios de programação, arquitetura de software e tenho aptidão para aprender novas tecnologias rapidamente e me adaptar a diferentes ambientes de trabalho. Estou comprometida em evoluir na área de desenvolvimento mobile.
 -->
 ##
 </div>
