@@ -18,7 +18,7 @@
   
 - Atualmente, estudo na TOTI (A Toti é uma plataforma brasileira que ensina e inclui pessoas refugiadas e migrantes no mercado de trabalho de tecnologia).
   
-- Desenvolvedor mobile Android Nativo com Kotlin, em formação. Atualmente, estou aprimorando minhas habilidades através de cursos especializados. Busco me manter atualizado com as últimas tendências do mercado. Tenho interesse em princípios de programação, arquitetura de software e tenho aptidão para aprender novas tecnologias rapidamente e me adaptar a diferentes ambientes de trabalho. Estou comprometida em evoluir na área de desenvolvimento mobile.
+- Desenvolvedor Kotlin para Android, em formação. Atualmente, estou aprimorando minhas habilidades através de cursos especializados. Busco me manter atualizado com as últimas tendências do mercado. Tenho interesse em princípios de programação, arquitetura de software e tenho aptidão para aprender novas tecnologias rapidamente e me adaptar a diferentes ambientes de trabalho. Estou comprometida em evoluir na área de desenvolvimento mobile.
 -->
 ##
 </div>
