@@ -16,7 +16,7 @@
   
 - 👩🌱 Engenheiro Agrônomo, minhã primeira formacão.
   
-- Atualmente, estudo na TOTI (Negócio Social que inspira a mudança na vida de pessoas refugiados através da tecnologia. Ensino eletrônico.)
+- Atualmente, estudo na TOTI (A Toti é uma plataforma brasileira que ensina e inclui pessoas refugiadas e migrantes no mercado de trabalho de tecnologia).
   
 - Desenvolvedor mobile Android Nativo com Kotlin, em formação. Atualmente, estou aprimorando minhas habilidades através de cursos especializados. Busco me manter atualizado com as últimas tendências do mercado. Tenho interesse em princípios de programação, arquitetura de software e tenho aptidão para aprender novas tecnologias rapidamente e me adaptar a diferentes ambientes de trabalho. Estou comprometida em evoluir na área de desenvolvimento mobile.
 -->
